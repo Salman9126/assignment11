@@ -1,0 +1,20 @@
+.danger{
+    color: red !important;
+}
+.purple{
+    color:purple !important;
+}
+.bg-purple{
+    background-color:purple !important;
+}
+.sub-header-text{
+    font-size: 20px;
+}
+.sub-header-text-min{
+    font-size: 12px;
+    font-weight: lighter;
+}
+.image{
+    width: 100%;
+    height: 200px;
+}
